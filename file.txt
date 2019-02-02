@@ -1,2 +1,5 @@
 
 Hello World , welcome user and enjoy Devops.
+
+This is the first part of DevOps training...
+- Basics
